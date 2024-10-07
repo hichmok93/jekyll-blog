@@ -19,11 +19,11 @@ title: Hicham Gardeslen # the main title
 tagline: A blog website # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A blog for writhing of websites. 
+  A blog for websites. 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://hichmok93.github.io/"
+url: ""
 
 github:
   username: github_username # change to your GitHub username
@@ -93,7 +93,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://hichmok93.github.io/"
+cdn: null
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "https://pbs.twimg.com/profile_images/1826209715090522112/PvInuNYA_400x400.jpg"
